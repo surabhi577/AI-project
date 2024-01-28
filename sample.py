@@ -1,6 +1,6 @@
 import streamlit as st
 from dotenv import load_dotenv
-from PyPDF2 import pdfFileReader
+from PyPDF2 import PdfFileReader
 from langchain.text_splitter import CharacterTextSplitter
 from langchain.embeddings import OpenAIEmbeddings
 from langchain.vectorstores import FAISS
