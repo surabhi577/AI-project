@@ -1,0 +1,5 @@
+streamlit==1.10.0
+python-dotenv==0.17.1
+PyPDF2==1.26.0
+langchain
+htmlTemplates
